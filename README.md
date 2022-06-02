@@ -3,4 +3,4 @@
 
  Agora é só começar a jogar tudo no git
 
-Acesse o site seguindo este link https://evandrolimabarbosa.github.io/projeto-site/
+Acesse o site seguindo este link https://evandrolimabarbosa.github.io/site-simples/index.html
